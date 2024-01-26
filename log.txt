@@ -1,0 +1,6 @@
+* 0711533 (HEAD -> main) Reemplazo de una version por otra de la historia
+* df8b8c0 Cambio de maestria
+* 375397c Cambio de vida
+* 599ec18 Arranco mi proyecto real con html y ccs
+* 7f8e376 Cambios al archivo de historia para reflejar la edad correcta
+* ca3f790 Este es el primer commit de este archivo
